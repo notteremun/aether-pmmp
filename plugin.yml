@@ -1,0 +1,5 @@
+name: Aether-MP
+version: 0.0.0
+api: 4.0.0
+main: Teremun\Main
+author: TeremunArt
